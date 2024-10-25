@@ -1,16 +1,3 @@
-# enterprise_mobility_assignment
+# InsureSync - A Flutter Mobile App
 
-Assignment - Enterprise Mobility
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The InsureSync App is an innovative mobile solution aimed at making insurance claim submission and tracking easier. It is specifically designed for offline functionality, enabling users to continue operations without an internet connection and later sync data when online. 
