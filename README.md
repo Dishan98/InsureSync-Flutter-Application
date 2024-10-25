@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/aaece0dc-673c-4d3b-a67a-0a8843b6192b)
-
 # InsureSync - A Flutter Mobile App
 
 The InsureSync App is an innovative mobile solution aimed at making insurance claim submission and tracking easier. It is specifically designed for offline functionality, enabling users to continue operations without an internet connection and later sync data when online. 
