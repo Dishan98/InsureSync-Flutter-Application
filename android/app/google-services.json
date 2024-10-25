@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996552366916",
+    "project_id": "insuretech-7cd02",
+    "storage_bucket": "insuretech-7cd02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996552366916:android:dcba6e1ab9185839a85511",
+        "android_client_info": {
+          "package_name": "com.example.enterprise_mobility_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHL0K21bXEtJgR5UVGHcpcMEotfSUsv28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
